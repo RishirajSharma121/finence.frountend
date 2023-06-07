@@ -10,9 +10,9 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0%;
-  padding: 20px 15px;
+  /* padding: 20px 15px; */
   background-position:left;
-  background-color:rgba(0, 183, 255, 0.379)
+  background-color:rgb(240, 246, 248)
 }
 .Link{
   display: flex;

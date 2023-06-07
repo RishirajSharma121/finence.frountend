@@ -21,13 +21,13 @@ const Sidebar = ({children}) => {
             icon:<FaTh/>
         },
         {
-            path:"/about",
-            name:"About",
+            path:"/Incomes",
+            name:"Incomes",
             icon:<FaUserAlt/>
         },
         {
-            path:"/analytics",
-            name:"Analytics",
+            path:"/Exp",
+            name:"Expeses",
             icon:<FaRegChartBar/>
         },
         {
@@ -36,8 +36,8 @@ const Sidebar = ({children}) => {
             icon:<FaCommentAlt/>
         },
         {
-            path:"/product",
-            name:"Product",
+            path:"/Bud",
+            name:"Budget",
             icon:<FaShoppingBag/>
         },
         {
